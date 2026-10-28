@@ -1872,6 +1872,7 @@ def _render_top_bar():
 
 
 support_locales = [
+    "ar-SA",
     "ca-ES",
     "zh-CN",
     "zh-HK",
